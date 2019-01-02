@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-  famous = {"name" => "Dwayne The Rock Johnson"},
+  actor = {"name" => "Dwayne The Rock Johnson"},
 }
 end
 
